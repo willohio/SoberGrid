@@ -1,0 +1,121 @@
+/*
+ Localizable.strings
+ SoberGrid
+ 
+ Created by Haresh Kalyani on 9/11/14.
+ Copyright (c) 2014 Agile Infoways Pvt. Ltd. All rights reserved.
+ */
+
+// Left Panel Screen
+
+"The Grid" = "The Grid";
+
+"Newsfeed"="Newsfeed";
+
+"Profile" = "Profile";
+
+"Messages"="Messages";
+
+"Visitors"="Visitors";
+
+"Supporting Badge"="Supporting Badge";
+
+"Go Premium"="Go Premium";
+
+"Favorites"="Favorites";
+
+"Block" = "Block";
+
+"Stealth Mode"="Stealth Mode";
+
+"Big Book"="Big Book";
+
+"Sobriety Calculator"="Sobriety Calculator";
+
+
+
+//
+"Invite Friends" = "Invite Friends";
+
+"12 * 12"="12 * 12";
+
+"Online Users Only" = "Online Users Only";
+
+"Photos" = "Photos";
+
+"All Ages" = "All Ages";
+
+"Distance" = "Distance";
+
+"Gender" = "Gender";
+
+"Orientation" = "Orientation";
+
+"Relationship status" = "Relationship status";
+
+"Seeking" = "Seeking";
+
+//***************
+
+"Available to give a ride"= "Available to give a ride";
+
+"Fellowship type"= "Fellowship type";
+
+"Looking to meet up" = "Looking to meet up";
+
+"No Answer" = "No Answer";
+
+"About Me" = "About Me";
+
+"Edit" = "Edit";
+
+"PROFILE"= "PROFILE";
+
+// Message Screen
+
+"MESSAGE" = "MESSAGE";
+
+// MessageTableViewCell
+
+"You sent a photo" = "You sent a photo";
+
+"Has sent you a photo" = "Has sent you a photo";
+
+"You shared location" = "You shared location";
+
+"Has shared loction" = "Has shared loction";
+
+//SGNewsFeedPostViewController
+
+"POST STATUS" = "POST STATUS";
+
+"Select source type" = "Select source type";
+
+"Done" = "Done";
+
+"Cancel" = "Cancel";
+
+"Selected source is not available" = "Selected source is not available";
+
+"Select source type" = "Select source type";
+
+"None" = "None";
+
+"Gallery" = "Gallery";
+
+"Camera" = "Camera";
+
+"Write something about media" = "Write something about media";
+
+"What`s on your mind?" = "What`s on your mind?";
+
+// SupportingBadgeViewController
+
+"SUPPORTING BADGE" = "SUPPORTING BADGE";
+
+"Purchased"= "Purchased";
+
+"Self-Supporting Members believe in the mission of Sober Grid and want to ensure that it continues to provide the ability for sober people around the globe to connect. They give to help continue our mission" = "Self-Supporting Members believe in the mission of Sober Grid and want to ensure that it continues to provide the ability for sober people around the globe to connect. They give to help continue our mission";
+
+// PremiumMemberViewController
+

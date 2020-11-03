@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BFD4CB6E-A733-4647-B970-E220EC50196F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BA7476C63C54A8A23CBBD56DBB89C8BA3289AF7E</key>
+		<string>https://github.com/cleanandsober/SoberGridiOSApp</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SoberGrid/SoberGrid.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BA7476C63C54A8A23CBBD56DBB89C8BA3289AF7E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cleanandsober/SoberGridiOSApp</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BA7476C63C54A8A23CBBD56DBB89C8BA3289AF7E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BA7476C63C54A8A23CBBD56DBB89C8BA3289AF7E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SoberGridiOSApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

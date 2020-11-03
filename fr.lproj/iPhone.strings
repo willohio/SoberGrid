@@ -1,0 +1,42 @@
+
+/* Class = "IBUIButton"; normalTitle = "Forgot Password?"; ObjectID = "0NL-cd-jaI"; */
+"0NL-cd-jaI.normalTitle" = "Mot de passe oublié?";
+
+/* Class = "IBUITextField"; placeholder = "Username"; ObjectID = "1XR-Uh-tz5"; */
+"1XR-Uh-tz5.placeholder" = "Nom d'utilisateur";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "CdH-SB-Qxy"; */
+"CdH-SB-Qxy.placeholder" = "email";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "N8a-vW-5pa"; */
+"N8a-vW-5pa.placeholder" = "mot de passe";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "RYd-Fm-idL"; */
+"RYd-Fm-idL.placeholder" = "mot de passe";
+
+/* Class = "IBUIBarButtonItem"; title = "Done"; ObjectID = "bvm-mh-baJ"; */
+"bvm-mh-baJ.title" = "fini";
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "d2i-JY-rir"; */
+"d2i-JY-rir.normalTitle" = "Login";
+
+/* Class = "IBUIButton"; normalTitle = "Sign Up"; ObjectID = "dpa-wk-EP6"; */
+"dpa-wk-EP6.normalTitle" = "signer";
+
+/* Class = "IBUILabel"; text = "SIGN UP"; ObjectID = "ggr-Qh-Bik"; */
+"ggr-Qh-Bik.text" = "signer";
+
+/* Class = "IBUIButton"; normalTitle = "Login with Facebook"; ObjectID = "hVS-Nv-Zdr"; */
+"hVS-Nv-Zdr.normalTitle" = "Connectez-vous avec Facebook";
+
+/* Class = "IBUIButton"; normalTitle = "Send"; ObjectID = "jgg-N7-x5c"; */
+"jgg-N7-x5c.normalTitle" = "envoyer";
+
+/* Class = "IBUILabel"; text = "LOGIN"; ObjectID = "shf-rF-yZO"; */
+"shf-rF-yZO.text" = "LOGIN";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "wMv-07-ndG"; */
+"wMv-07-ndG.placeholder" = "email";
+
+/* Class = "IBUIButton"; normalTitle = "Sign Up"; ObjectID = "zOM-bb-Wsg"; */
+"zOM-bb-Wsg.normalTitle" = "signer";

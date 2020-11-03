@@ -1,0 +1,27 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#import "Global.h"
+#import "NSObject+ConvertingViewPixels.h"
+
+BOOL isIPhone4;
+BOOL isIPhone5;
+BOOL isIPad;
+
+
+#define SET_VERSION(v) [[NSUserDefaults standardUserDefaults] setValue:v forKey:@"version"]
+#define GET_VERSION [[NSUserDefaults standardUserDefaults] valueForKey:@"version"]
+#define SYNCHRONIZE_DEFAULTS [[NSUserDefaults standardUserDefaults] synchronize]
+#endif

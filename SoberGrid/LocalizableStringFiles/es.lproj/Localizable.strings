@@ -1,0 +1,321 @@
+/*
+ Localizable.strings
+ SoberGrid
+ 
+ Created by Haresh Kalyani on 9/11/14.
+ Copyright (c) 2014 Agile Infoways Pvt. Ltd. All rights reserved.
+ */
+// Alerts
+"Do you think you may use? Allow others to reach out to you. You will be highlighted in red on The Grid." = "¿Usted cree que puede usar? Permitir que otros para llegar a usted. Usted será resaltado en rojo en la parrilla .";
+"Do you need a ride to a meeting? Your profile picture on The Grid will be outlined in blue." = " ¿Necesita un paseo a una reunión? Tu imagen de perfil en la parrilla se resume en azul . ";
+
+"Search by City or Username" = "Buscar por ciudad o nombre de usuario";
+
+"Like us on Facebook" = "Al igual que nosotros en Facebook";
+
+"Follow us on Twitter" = "Siga con nosotros en Twitter";
+
+"Connect with us on LinkedIn" = "Conecte con nosotros en LinkedIn";
+
+"Follow us on Instagram" = "Síguenos en Instagram";
+
+"Check us out on our website - www.sobergridapp.com" = "Visítenos en nuestra página web - www.sobergridapp.com";
+
+// Left Panel Screen
+"Invite Friends" = "Invita Amigos";
+
+"The Grid" = "la red";
+
+"Newsfeed"="Noticias RSS";
+
+"Profile" = "perfil";
+
+"Messages"="Mensajes";
+
+"Visitors"="Visitantes";
+
+"Supporting Badge"="Apoyando Insignia";
+
+"Go Premium"="Go Premium";
+
+"Favorites"="Favoritos";
+
+"Block" = "Bloques";
+
+"Stealth Mode"="El modo invisible";
+
+"Big Book"="Gran Libro";
+
+"Sobriety Calculator"="Calculadora sobriedad";
+
+"Logout" = "Cerrar sesión";
+
+"Clear"  = "Claro";
+
+"Done"   = "Hecho";
+
+"Edit"   = "Editar";
+
+"long text goes" = "texto largo va";
+
+"Pro" = "Membresia Premier";
+
+"Burning Desire" = "SOS";
+
+"Need a Ride" = "¿Necesita un paseo";
+
+"About"  = "acerca de";
+
+"Visit Website" = "Sitio web";
+
+"Large Text"  = "Texto grande";
+
+"Like"        = "gusta";
+
+"Likes"       = "gustos";
+
+"Add"         = "añadir";
+
+"1 month for  $" = "1 mes para $";
+
+"12 month for  $" = "12 meses por $";
+
+"Self-Supporting member believes in the mission of Sober Grid and want to ensure that it continues to provide the ability for sober people around the globe to connect.\nThey help to continue our mission." = "Componente autoportante cree en la misión de Sober cuadrícula y quieren asegurarse de que sigue ofreciendo la posibilidad de que la gente sobria en todo el mundo para conectar . \ NSerán ayuda a continuar nuestra misión .";
+"Support the sober community! Get a self supporting badge on your profile for only $.99.\nBy buying a self supporting badge you are helping to ensure Sober Grid as a self supporting community whose mission is to help clean and sober people around the world connect." = "Apoyar la comunidad sobria Consíguela un autoportante de placas en su perfil por sólo $ 0,99.\nAl comprar una placa autoportante usted está ayudando a garantizar Sober cuadrícula como autosuficiente comunidad cuya misión es ayudar a la gente limpio y sobrio en todo el mundo connect";
+
+"Purchased" = "Comprado";
+
+"Send" = "enviar";
+
+"Suggested Page" = "página sugerido";
+
+"...Countinue reading" = "...La lectura de Countinue";
+
+"Ok" = "Okay";
+
+"Cancel" = "Cancelar";
+
+"UNBLOCK" = "DESBLOQUEAR";
+
+"Login"  = "login";
+
+"Login with Facebook" = "Ingresar con Facebook";
+
+"forgot password?" = "¿Has olvidado tu contraseña?";
+
+"Sign Up" = "contratar";
+
+"Write comment" = "Escribir comentario";
+
+"Comments" = "Comentarios";
+
+"Comment" = "Comentario";
+
+"Privacy Policy" = "política De Privacidad";
+"Terms of Use" = "Condiciones de uso";
+
+
+"What's on your mind?" = "Qué tienes en mente ?";
+
+"Message" = "mensaje";
+
+"Email-address" = "Dirección de correo electrónico";
+
+"Password" = "contraseña";
+
+
+"City" = "ciudad";
+
+"Please enter your email address , we\'ll send you email,so you can reset your password" = "Introduzca su dirección de correo electrónico , que \ 'll enviarle correo electrónico , para que pueda restablecer su contraseña";
+
+"Online Users Only" = "Sólo usuarios en línea";
+
+"Photos"= "Fotos";
+
+"All Ages"="Todas las edades";
+
+"Distance"="distancia";
+
+"Gender"="género";
+"Orientation" = "orientación";
+
+"Relationship status" = "estado civil";
+
+"Available to give a ride"="Disponible para dar un paseo";
+
+"Seeking"="buscando";
+
+"Fellowship"="compañerismo";
+"Looking to meet up"="Mirando para reunirse";
+"Sobriety Date"="fecha de la sobriedad";
+"Username"="Nombre de usuario";
+"Location"="ubicación";
+"Self supporting badge"="Apoyar la comunidad";
+"Date of birth"="Fecha de nacimiento";
+"Female"="femenino";
+"Male"="masculino";
+"Straight"="recto";
+"Gay"="homosexual";
+"Lesbian"="lesbiana";
+"Bisexual"="bisexual";
+"Queer"="maricón";
+"Questioning"="interrogatorio";
+"Pansexual"="pansexual";
+"Asexual"="asexual";
+"Single"="solo";
+"Dating"="Citas";
+"Committed"="Comprometidos";
+"Open Relationship"="Relación abierta";
+"Married"="casado";
+"New Friends"="Nuevos Amigos";
+"Short-term Dating"="Citas a corto plazo";
+"Long-term Dating"="Citas a largo plazo";
+"Activity partners"="socios de la actividad";
+"Favorite"="favorito";
+"Unfavorite"="unfavorite";
+"Block"="bloque";
+"Unblock"="desatascar";
+"Chat"="charlar";
+"Turn On Stealth Mode?"="Activar el modo invisible ?";
+"Stealth Mode"="El modo invisible";
+
+"By turning On: will not allow others to be informed you have visited their profile. Be a supportive  member of Sober Grid, so you can use stealth mode feature."="Por Encendido : no permitirá a otros a ser informados de haber visitado su perfil. BE un miembro de apoyo de Sober Grid , para que pueda utilizar la función de modo oculto . .";
+"Exclusive Features for Supporting Member\n"="Características exclusivas en Supporting miembro\n";
+"Media"="medios de comunicación";
+"Status"="estado";
+"Months"="Meses";
+"Days"="Días";
+"Your sobriety date is:"="Su fecha de la sobriedad es :";
+"I have been Sober for"="He estado sobrio por";
+
+"Would you like to turn it on ?Your profile picture on The Grid will have red square around it."="¿Quieres encenderlo ? Tu foto de perfil en la parrilla tendrá cuadrado rojo alrededor de ella .";
+
+"Would you like to turn it off ?Your profile picture on The Grid will not have red square around it."="¿Te gustaría apagarlo ? Tu foto de perfil en la parrilla no tendrá cuadrado rojo alrededor de ella .";
+"Would you like to turn it off ?" ="¿Te gustaría apagarlo ?";
+
+
+
+"Would you like to turn it on ?Your profile picture on The Grid will have blue square around it."="¿Quieres encenderlo ? Tu foto de perfil en la parrilla tendrá cuadrado azul a su alrededor.";
+
+"Would you like to turn it off ?Your profile picture on The Grid will not have blue square around it."="¿Te gustaría apagarlo ? Tu foto de perfil en la parrilla no tendrá cuadrado azul a su alrededor.";
+
+"Yes"="Sí";
+"No"="No";
+"Do you want to unblock"="¿Quieres desbloquear";
+"Add profile picture from"="Añadir foto de perfil de";
+"no photos"="no hay fotos";
+"You added"="Añadiste";
+"to your Favorites"=" a sus Favoritos";
+"Favorited" = "Favorito";
+
+"Blocked" = "Bloqueado";
+
+// Premium string
+"Enhanced Profile - Add up to four additional profile pictures to your profile." = "Perfil mejorada - Añadir hasta cuatro imágenes de perfil adicionales a su perfil.";
+"Photo Albums - Save and create albums of you and your friends. Have the people around you right at your fingertips." = "Álbum de fotos - Guardar y crear álbumes de usted y sus amigos tienen las personas que te rodean a su alcance.";
+"Saved Phrases - Have something you find yourself typing a lot? Save it and have it ready to go!" = "Las frases guardadas - Si tiene algo que te encuentras escribiendo un montón Guárdelo y tenerlo listo para ir !";
+"Cascade Swipe - Swipe through various profiles instantaneously, loading more people on your screen, and hopefully into your life." = "Cascade Swipe - Pase a través de diversos perfiles instantáneamente , cargando más personas en su pantalla, y es de esperar en su vida.";
+"Photo Filtering - Filter profiles exclusively by photo." = "Filtrado de archivo - perfiles Filtrar exclusivamente por foto.";
+"Visit in Stealth Mode - Hide your presence while looking at other profiles." = "Visita en modo invisible - Ocultar su presencia mientras se mira en otros perfiles.";
+"\n\nEnhance your experience on Sober Grid with our pro features. These exclusive features give you increased functionality as you contribute to a network of sober users around the globe." = "\n\nMejora tu experiencia en Sober Cuadrícula con nuestros redactores características. Estas características exclusivas dará mayor funcionalidad que usted contribuye a una red de usuarios sobrios en todo el mundo .";
+
+//Welcomde Screen
+"Find Sober Friends" = "Encuentra Amigos Sober";
+"Sober Newsfeed"     = "Sober Noticias RSS";
+
+
+"Online Users Only" = "Sólo en la red";
+
+"Photos" = "Fotos";
+
+"All Ages" = "todas las edades";
+
+"Distance" = "Distancia";
+
+"Gender" = "Género";
+
+"Orientation" = "Orientación";
+
+"Relationship status" = "estado civil";
+
+"Seeking" = "buscando";
+
+// Contact us
+"Reach out to us at contact@sobergrid.com" = "Llegar a nosotros en contact@sobergrid.com";
+
+//*******************
+
+"Available to give a ride" = "Disponible para dar un paseo";
+
+"Fellowship type" = "tipo de Beca";
+
+"Looking to meet up" = "Mirando a reunirse";
+
+"No Answer" = "Sin respuesta";
+
+"About Me" = "Acerca de mí";
+
+"Edit" = "editar";
+
+"PROFILE" = "PERFIL";
+
+// Message Screen
+
+"MESSAGE" = "MENSAJE";
+
+"Contact Us" = "contáctenos";
+
+// MessageTableViewCell
+
+"You sent a photo" = "Usted envió una foto";
+
+"Has sent you a photo" ="Te ha enviado una foto";
+
+"You shared location" = "Usted compartió ubicación";
+
+"Has shared loction" = "Tiene loction compartido";
+// News Feed
+"Just now" = "En este momento";
+"Would you like to hide all post of this user? User will be moved to your block list." = "¿Quieres ocultar todos los post de este usuario ? Usuario será trasladado a su lista de bloqueo .";
+"No" = 	"no";
+"Sponsored" = "patrocinados";
+// Profile
+"Delete" = "borrar";
+"Would you like to do?" = "¿Te gustaría hacer?";
+"Please be a support member to use this feature" = "Por favor, ser un elemento de apoyo para utilizar esta función ";
+"Set as profile pic" = "Establecer como foto de perfil";
+
+"Do you want to block" = " ¿Quieres bloquear ";
+
+//SGNewsFeedPostViewController
+
+"Post Status" = "Estado De Poste";
+
+"Select source type" = "Seleccione el tipo de fuente";
+
+"Done" = "hecho";
+
+"Cancel" = "cancelar";
+
+"Selected source is not available" = "Fuente seleccionada no está disponible";
+
+"Select source type" = "Seleccione el tipo de fuente";
+
+"None" = "ninguno";
+
+"Gallery" = "galería";
+
+"Camera" = "cámara";
+
+"Write something about media" = "Escribe algo sobre los medios de comunicación";
+
+"What`s on your mind?" = "¿Qué hay en tu mente?";
+
+// SupportingBadgeViewController
+
+"SUPPORTING BADGE" = "INSIGNIA DE APOYO";
+
+"Purchased" = "comprado";
+
+"Self-Supporting Members believe in the mission of Sober Grid and want to ensure that it continues to provide the ability for sober people around the globe to connect. They give to help continue our mission" = "Autoportante Los miembros creen en la misión de Sober cuadrícula y quieren asegurarse de que se sigue proporcionando la capacidad para que la gente sobria en todo el mundo para conectar . Ellos dan para ayudar a continuar nuestra misión";
+"City Name" = "Nombre de la ciudad";

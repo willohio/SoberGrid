@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7549" systemVersion="14A389" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="SGGroup" representedClassName="SGGroup" syncable="YES">
+        <attribute name="isLiked" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="joinStatus" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="members" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="strBannerThumbUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="strBannerUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="strCity" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="strEmail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="strFullName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="strGroupId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="strImageUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="strPhoneNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="strThumbUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="strWebsiteUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalLikes" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="SGGroup" positionX="-63" positionY="-18" width="128" height="255"/>
+    </elements>
+</model>
