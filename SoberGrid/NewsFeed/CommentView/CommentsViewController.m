@@ -3,7 +3,7 @@
 //  SoberGrid
 //
 //  Created by Haresh Kalyani on 10/20/14.
-//  Copyright (c) 2014 Agile Infoways Pvt. Ltd. All rights reserved.
+//  Copyright (c) 2014 William Santiago All rights reserved.
 //
 NSString *const commentTypePage = @"page";
 NSString *const commentTypePost = @"post";

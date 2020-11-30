@@ -3,7 +3,7 @@
 //  SoberGrid
 //
 //  Created by agilepc-159 on 6/22/15.
-//  Copyright (c) 2015 Agile Infoways Pvt. Ltd. All rights reserved.
+//  Copyright (c) 2015 William Santiago All rights reserved.
 //
 static NSString* const kGetAllNotificationApi = @"get_all_notification";
 #import "NotificationViewController.h"

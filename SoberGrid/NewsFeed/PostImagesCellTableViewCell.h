@@ -3,7 +3,7 @@
 //  SoberGrid
 //
 //  Created by Haresh Kalyani on 10/14/14.
-//  Copyright (c) 2014 Agile Infoways Pvt. Ltd. All rights reserved.
+//  Copyright (c) 2014 William Santiago All rights reserved.
 //
 #define kSG_Cell_height (isIPad)?150:100
 

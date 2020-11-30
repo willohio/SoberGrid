@@ -3,7 +3,7 @@
 //  SoberGrid
 //
 //  Created by Haresh Kalyani on 11/5/14.
-//  Copyright (c) 2014 Agile Infoways Pvt. Ltd. All rights reserved.
+//  Copyright (c) 2014 William Santiago All rights reserved.
 //
 
 static NSString *const kSGStealthMessage=@"By turning On: will not allow others to be informed you have visited their profile. Be a supportive  member of Sober Grid, so you can use stealth mode feature.";

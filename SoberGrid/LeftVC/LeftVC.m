@@ -2,8 +2,8 @@
 //  LeftVC.m
 //  SoberGrid
 //
-//  Created by Binty Shah on 9/2/14.
-//  Copyright (c) 2014 Agile Infoways Pvt. Ltd. All rights reserved.
+//  Created by William Santiago on 9/2/14.
+//  Copyright (c) 2014 William Santiago All rights reserved.
 //
 
 typedef enum {

@@ -3,7 +3,7 @@
 //  SoberGrid
 //
 //  Created by agilepc-159 on 7/4/15.
-//  Copyright (c) 2015 Agile Infoways Pvt. Ltd. All rights reserved.
+//  Copyright (c) 2015 William Santiago All rights reserved.
 //
 
 #import "GroupListVC.h"

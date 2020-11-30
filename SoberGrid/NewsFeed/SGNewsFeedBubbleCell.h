@@ -3,7 +3,7 @@
 //  SoberGrid
 //
 //  Created by Haresh Kalyani on 10/9/14.
-//  Copyright (c) 2014 Agile Infoways Pvt. Ltd. All rights reserved.
+//  Copyright (c) 2014 William Santiago All rights reserved.
 //
 #define kBubbleCellContentPaddingRight  20
 #define kBubbleCellContentPaddingLeft   20
